@@ -6,9 +6,9 @@ rock=0
 alone=0
 doctor=0
 localisation=0
-print("""\nCaptain: Hello adventurer, your crue's captain's speaking. We've just made it to planet Pluto.
+print("""\nCaptain: Hello adventurer, your crew's captain's speaking. We've just made it to planet Pluto.
          We are now ready to lunch your ship. Please remember; your mission is to note as much infomations as possible
-         Do not touch anythiing. The scientific crue will take car of that.
+         Do not touch anything. The scientific crew will take car of that.
          Stay safe out there.\n""") #Isolated, Lake Mercry,Pluto
 
 print("""Your ship comes off the main rocket and you are propuled to the ground of the planet Pluto.
@@ -142,7 +142,7 @@ Implosion Ending (2/5)\n""")
                                 life=0
                                 break
                         elif rock==0:
-                                print("""You decide to head back to the ship. Since you feel kind of dizzy due to Pluto's pressure, you decide to stay in the ship and write your repport until the scientific crue gets back.\n""")
+                                print("""You decide to head back to the ship. Since you feel kind of dizzy due to Pluto's pressure, you decide to stay in the ship and write your repport until the scientific crew gets back.\n""")
                                 ship=1
                                 break
                         break
@@ -186,7 +186,7 @@ Implosion Ending (2/5)\n""")
                                 life=0
                                 break
                         else:
-                                print("""You decide to head back to the ship. Since you feel kind of dizzy due to Pluto's pressure, you decide to stay in the ship and write your repport until the scientific crue gets back.\n""")
+                                print("""You decide to head back to the ship. Since you feel kind of dizzy due to Pluto's pressure, you decide to stay in the ship and write your repport until the scientific crew gets back.\n""")
                                 ship=1
                                 break
                 elif(choice==2):
