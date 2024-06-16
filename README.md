@@ -1,4 +1,7 @@
-# "Lost on Pluto" (Terminal_Adventure)
+# "Lost on Pluto"
+(Terminal_Adventure)
+
+Launch main.py and enjoy!
 
 Codex's "Terminal Adventure Game" is to create a terminal_game.py that walks the player through a
 captivating mini-game adventure! In each step of the adventure,
