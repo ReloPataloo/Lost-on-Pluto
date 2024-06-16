@@ -4,6 +4,7 @@ ship=0
 life=1
 rock=0
 alone=0
+doctor=0
 localisation=0
 print("""\nCaptain: Hello adventurer, your crue's captain's speaking. We've just made it to planet Pluto.
          We are now ready to lunch your ship. Please remember; your mission is to note as much infomations as possible
