@@ -7,8 +7,8 @@ alone=0
 doctor=0
 localisation=0
 print("""\nCaptain: Hello adventurer, your crew's captain's speaking. We've just made it to planet Pluto.
-         We are now ready to lunch your ship. Please remember; your mission is to note as much infomations as possible
-         Do not touch anything. The scientific crew will take car of that.
+         We are now ready to launch your ship. Please remember; your mission is to note as much infomations as possible
+         Do not touch anything. The scientific crew will take care of that.
          Stay safe out there.\n""") #Isolated, Lake Mercry,Pluto
 
 print("""Your ship comes off the main rocket and you are propuled to the ground of the planet Pluto.
